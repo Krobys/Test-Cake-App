@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">PhonesApp</string>
-    <string name="cell_phone">Cell Phone</string>
-    <string name="skype">Skype</string>
-    <string name="home">Home</string>
-    <string name="profile">Profile</string>
+    <string name="app_name">Cakes App</string>
+
+    <string name="error_connection_text">No Internet</string>
+
+    <string name="cakes_title">Cakes</string>
 </resources>
